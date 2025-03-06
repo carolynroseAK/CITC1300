@@ -11,14 +11,14 @@ img {
 }
 
 #container {
-    background-color: darkgray
+    background-color: #c6c6c6
 }
 
 /* Mobile Styles */
 
 @media (min-width: 320px) {
     nav {
-        background-color: antiquewhite;
+        background-color: rosybrown;
         padding: 5px; 
         margin-top: 10px;
         text-align: center;
@@ -45,7 +45,7 @@ img {
     }
     
     nav li a:hover {
-        background-color: darkgray;
+        background-color: #c6c6c6;
     }
 }
 main {
